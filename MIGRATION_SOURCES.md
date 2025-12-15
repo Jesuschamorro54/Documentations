@@ -217,7 +217,7 @@ Este documento describe los cambios en el modelo de datos de **Sources** (clases
       "file_name": "",
       "file_type": "video/mp4",
       "file_url": "25IfpaK_Xqc",
-      "is_video": "1",
+      "is_video": "1", // ❌ DEPRECADO
       "origin": "youtube"
      },
      "order": "2",
@@ -234,7 +234,7 @@ Este documento describe los cambios en el modelo de datos de **Sources** (clases
         "file_name": "",
         "file_type": "",
         "file_url": "",
-        "is_video": "0",
+        "is_video": "0", // ❌ DEPRECADO
         "origin": "local"
      }
     },
@@ -258,7 +258,6 @@ Este documento describe los cambios en el modelo de datos de **Sources** (clases
     "file_name": "",
     "file_type": "video/mp4",
     "file_url": "Tyb9DNE5bNU",
-    "is_video": "1",
     "origin": "youtube"
    },
    "order": "4",
@@ -275,7 +274,6 @@ Este documento describe los cambios en el modelo de datos de **Sources** (clases
     "file_name": "",
     "file_type": "",
     "file_url": "",
-    "is_video": "",
     "origin": "local"
    }
   },
